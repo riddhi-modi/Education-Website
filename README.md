@@ -1,4 +1,3 @@
-# Education-Website
 
 <h1>Education Project</h1>
 
@@ -19,7 +18,7 @@ The Website has pages for various courses available along with blogs and other p
 
 <h2>Website walk-through:</h2>
 
-<p align="center">
+<p text-align="center">
 Home Page: <br/>
 <img src="https://i.imgur.com/QdIuehN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
