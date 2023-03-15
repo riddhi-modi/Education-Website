@@ -2,7 +2,7 @@
 <h1>Education Project</h1>
 
 <h2>Description</h2>
-Real-world Education Website - Layout<br>
+Real-world Education Website - Responsive Layout<br>
 The Website has pages for various courses available along with blogs and other pages like About and Contact.
 
 <h2>Languages and Utilities Used</h2>
